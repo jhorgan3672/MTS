@@ -1,4 +1,4 @@
-{
+var allStops = {
   "type": "FeatureCollection",
   "features": [
     {
